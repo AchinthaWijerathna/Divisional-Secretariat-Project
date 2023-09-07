@@ -1,0 +1,50 @@
+* {
+    box-sizing: border-box;
+  }
+  
+
+  .contact-col{
+    
+      margin-top: 220px;
+      margin-left: 200px;
+  }
+  .footercontact{
+      margin-top: 100px;
+  }
+  .contactimage{
+    margin-top: -320px;
+    margin-left: 150px;
+    width: 40%;
+    height: 45%;
+    border-radius: 8px;
+    opacity: 0.5;
+    position: absolute;
+    z-index: -1;
+  }
+  .panel{
+    margin-left: 100px;
+    padding-top: 5px;
+   
+  }
+  .ag{
+    border-radius: 50%;
+    width: 85px;
+    
+   
+  }
+  .agent{
+  float: left;
+  }
+   
+  .line2{
+    margin-top: 30px;
+  }
+  .header3{
+    height:60vh;
+	width:105% ;
+	background-image:linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url("./images/contactbg.jpg"); 
+	background-position:center ;
+	background-size:cover ;
+	text-align:center ;
+	color:#FFFFFF ;
+  }
