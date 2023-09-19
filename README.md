@@ -24,18 +24,10 @@ This system, built using the MERN (MongoDB, Express.js, React, Node.js) stack, a
 - Postman API: Used for testing and documenting APIs during development.
 - Visual Studio Code: Integrated development environment (IDE) used for coding.
 
-## Getting Started
-
-1. Clone the repository.
-2. Install the required dependencies using `npm install`.
-3. Set up the MongoDB database and configure the connection settings.
-4. Start the backend server using `npm start` in the server directory.
-5. Start the frontend development server using `npm start` in the client directory.
-6. Access the application through the provided URL.
-7. Explore different functionalities and contribute to the project.
 
 
 
-##Create BY Gihan Jeewantha
+
+
 
 
